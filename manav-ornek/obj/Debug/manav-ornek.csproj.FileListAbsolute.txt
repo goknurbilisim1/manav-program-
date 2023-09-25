@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\manav-ornek\manav-ornek\bin\Debug\manav-ornek.exe.config
+C:\Users\User\source\repos\manav-ornek\manav-ornek\bin\Debug\manav-ornek.exe
+C:\Users\User\source\repos\manav-ornek\manav-ornek\bin\Debug\manav-ornek.pdb
+C:\Users\User\source\repos\manav-ornek\manav-ornek\obj\Debug\manav-ornek.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\manav-ornek\manav-ornek\obj\Debug\manav-ornek.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\manav-ornek\manav-ornek\obj\Debug\manav_ornek.Form1.resources
+C:\Users\User\source\repos\manav-ornek\manav-ornek\obj\Debug\manav_ornek.Properties.Resources.resources
+C:\Users\User\source\repos\manav-ornek\manav-ornek\obj\Debug\manav-ornek.csproj.GenerateResource.cache
+C:\Users\User\source\repos\manav-ornek\manav-ornek\obj\Debug\manav-ornek.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\manav-ornek\manav-ornek\obj\Debug\manav-ornek.exe
+C:\Users\User\source\repos\manav-ornek\manav-ornek\obj\Debug\manav-ornek.pdb
